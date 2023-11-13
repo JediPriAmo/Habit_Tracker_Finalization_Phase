@@ -1,1 +1,2 @@
-# Habit_Tracker_Finalization_Phase
+# A Basic Habit Tracker
+A simple yet efficient tool for accomplishing habit goals
